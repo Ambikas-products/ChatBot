@@ -1,6 +1,6 @@
-# 💬 MediBot - AI Q&A Chatbot with LangChain + Streamlit
+# 💬 ChatBot - AI Q&A Chatbot with LangChain + Streamlit
 
-MediBot is a Streamlit-based chatbot that answers user queries based on a custom knowledge base powered by FAISS vector search and the HuggingFace Mistral LLM.
+ChatBot is a Streamlit-based chatbot that answers user queries based on a custom knowledge base powered by FAISS vector search and the HuggingFace Mistral LLM.
 
 ---
 
